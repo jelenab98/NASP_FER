@@ -3,5 +3,5 @@ Laboratorijske vježbe iz predmeta Napredni algoritmi i strukture podataka u aka
 
 Teme koje se obrađuju u labosima:
   + AVL stablo
-  + 
+  + Dinamičko programiranje
   + 
